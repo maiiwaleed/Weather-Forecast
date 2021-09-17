@@ -1,0 +1,98 @@
+body{
+    font-family: "segoe ui light";
+}
+
+nav{
+    background-color:#1E202B ;
+}
+
+.active{
+
+    color: #009AD8;
+    border-color: #009AD8!important ;
+    /* border-radius: 40%; */
+
+}
+
+
+.bkgnd{
+    background-image: url(../images/banner.png);
+    background-size: cover;
+}
+
+
+.col-bkgnd{
+
+    background-color: #1E202B;
+
+}
+
+.dark-navy1{
+    background-color:#2D303D!important ;
+}
+.dark-navy2{
+    background-color:#222530!important ;
+}
+.dark-navy3{
+    background-color:#323544!important ;
+}
+.dark-navy4{
+    background-color:#262936!important ;
+}
+
+.w-30{
+    width: 33.33333%;
+}
+
+img{
+    height: 20px;
+}
+
+/* .img2{
+    height: 20px;
+
+} */
+
+
+.main-img1,
+.main-img2,
+.main-img3{
+    height: 40px;
+}
+
+/* ============================================== */
+
+
+.footer .social{
+    text-align: center;
+}
+
+
+
+.footer .copyright{
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+    /* font-weight: bold; */
+}
+
+.footer .copyright a{
+    text-decoration: none;
+    color: white;
+    transition: text-decoration 0.5s ;
+}
+
+.footer .copyright a:hover{
+    text-decoration: underline;
+}
+
+
+.fa-facebook{
+    color: rgb(16, 16, 126);
+}
+
+i{
+    padding: 0.5rem;
+    cursor: pointer;
+}
